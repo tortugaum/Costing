@@ -1,5 +1,61 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "budget": "100",
+      "name": "Projetinho",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "budget": "100",
+      "name": "Projetinho",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Projetinho",
+      "budget": "1111",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Projetinho",
+      "budget": "1222",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Projetinho",
+      "budget": "55",
+      "category": {
+        "id": "4",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    }
+  ],
   "categories": [
     {
       "id": 1,
