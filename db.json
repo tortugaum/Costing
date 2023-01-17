@@ -2,58 +2,61 @@
   "projects": [
     {
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "budget": "100",
-      "name": "Projetinho",
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "budget": "100",
-      "name": "Projetinho",
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "Projetinho",
-      "budget": "1111",
-      "category": {
-        "id": "1",
-        "name": "Infraestrutura"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "Projetinho",
-      "budget": "1222",
-      "category": {
-        "id": "1",
-        "name": "Infraestrutura"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "Projetinho",
-      "budget": "55",
-      "category": {
         "id": "4",
         "name": "Design"
       },
+      "name": "Novo Funcionario",
+      "budget": "2500",
       "cost": 0,
       "services": [],
-      "id": 5
+      "id": 6
+    },
+    {
+      "category": {
+        "id": "5",
+        "name": "Implementação"
+      },
+      "name": "Go Live",
+      "budget": "18750",
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "Casamento",
+      "budget": "35000",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "cost": 3768,
+      "services": [
+        {
+          "name": "Flores",
+          "cost": "5000",
+          "description": "Flores",
+          "id": "4b9fc620-7737-4fc3-84fe-1a4016afd048"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "Implementação de sistema",
+      "budget": "40000",
+      "category": {
+        "id": "5",
+        "name": "Implementação"
+      },
+      "cost": 15000,
+      "services": [
+        {
+          "name": "Desenvolvedor",
+          "cost": "15000",
+          "description": "Desenvolvedor para atuar no sistema",
+          "id": "7fcabc1a-53d7-4d6b-897a-fa18c02a5eb2"
+        }
+      ],
+      "id": 9
     }
   ],
   "categories": [
